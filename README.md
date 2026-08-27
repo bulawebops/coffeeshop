@@ -1,9 +1,8 @@
-# Facilitator Guide: Build a Coffee Shop App in 3 Hours
-
-**Course:** TEWP 1020 · React.js
+# Build a Coffee Shop App in 3 Hours
+**Course:** React.js
 **Prerequisites:** Days 1–4 (How React Works, Project Setup + JSX in TypeScript, Talking to a Server + Environment Variables, State & Events)
 **Format:** In-class build session with live checkpoints
-**Deliverable:** "Campus Grounds" — a mobile-ordering app that fetches a menu, lets students customize drinks, and manages a cart with a running total.
+**Deliverable:** A mobile-ordering app that fetches a menu, lets students customize drinks, and manages a cart with a running total.
 
 ---
 
